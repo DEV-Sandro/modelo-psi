@@ -156,7 +156,7 @@ cite { font-size: 0.9rem; color: #999; text-transform: uppercase; letter-spacing
 .step-number {
     font-size: 3rem;
     font-weight: 900;
-    color: rgba(143, 169, 152, 0.2); /* Sálvia bem clara */
+    color: rgba(102, 153, 120, 0.35); /* Sálvia bem clara */
     margin-bottom: -20px;
     font-family: var(--font-title);
     position: relative;
